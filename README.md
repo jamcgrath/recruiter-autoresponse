@@ -8,7 +8,7 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## the autoresponse
 
 ```
-Thanks you for reaching out. I'm always interested in hearing about new and exciting opportunities. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out via email and LinkedIn. However, I don't have the time to hop on a call with everyone who reaches out.
+Thanks you for reaching out. I'm always interested in hearing about new and exciting opportunities. As a software engineer I get a very high volume of recruiters reaching out via email and LinkedIn. Which means that I don't have the time to hop on a call with everyone who reaches out.
 
 I would love to continue the conversation, but before I do, I'd like to know the level of seniority that you're looking for. 
 
